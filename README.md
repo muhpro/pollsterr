@@ -1,5 +1,5 @@
 # pollsterr
-Python Django app to create polls with questions/choices
+Python Django app to create polls with questions/choices and visualization using zing charts
 
 Quick Start
 # Install dependencies
