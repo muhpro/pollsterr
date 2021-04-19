@@ -5,9 +5,7 @@ Quick Start
 # Install dependencies
 pipenv install
 
-cd pollster
+cd pollsterr
 
 # Serve on localhost:8000
 python manage.py runserver
-Commands Gist
-You can find all of the commands from the project here: https://gist.github.com/bradtraversy/06538da5924882b2cf30fa6310d505b1
